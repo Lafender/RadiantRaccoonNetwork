@@ -5,7 +5,9 @@ A collection of Open-Source Tools used by PrismaticJellyfish, OtterLake, OtterPa
 - inkscape
 - blender
 - chromium
-- Lubuntu (lxde)
+- Lubuntu
+- lxqt
+- lxde
 - android
 - riskv
 - firefox(?)
