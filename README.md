@@ -20,7 +20,7 @@ A collection of Open-Source Tools used by PrismaticJellyfish, OtterLake, OtterPa
 - konsole
 - Kate https://invent.kde.org/utilities/kate#licensing
 - openOffice
-- rosegarden (?)
+- rosegarden https://sourceforge.net/projects/rosegarden/
 - lmms
 - mixx (?)
 - notepad++ (?)
