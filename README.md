@@ -23,6 +23,7 @@ A collection of Open-Source Tools used by PrismaticJellyfish, OtterLake, OtterPa
 - lmms
 - mixx (?)
 - notepad++ (?)
+
 check the gui code for each.
 ***
 
