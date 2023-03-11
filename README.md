@@ -11,7 +11,7 @@ A collection of Open-Source Tools used by PrismaticJellyfish, OtterLake, OtterPa
 - lxde
 - android
 - riskv
-- firefox(?)
+- firefox
 - krita
 - audacity
 - obs
