@@ -4,6 +4,7 @@ A collection of Open-Source Tools used by PrismaticJellyfish, OtterLake, OtterPa
 (possibly = (?)) open source software 
 - inkscape
 - blender
+- godot
 - chromium
 - Lubuntu
 - lxqt
