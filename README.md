@@ -6,6 +6,8 @@ A collection of Open-Source Tools used by PrismaticJellyfish, OtterLake, OtterPa
 - blender
 - chromium
 - Lubuntu (lxde)
+- android
+- riskv
 - firefox(?)
 - krita
 - audacity
