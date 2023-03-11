@@ -15,7 +15,7 @@ A collection of Open-Source Tools used by PrismaticJellyfish, OtterLake, OtterPa
 - krita
 - audacity
 - obs
-- autokey (?)
+- autokey
 - krusader (?)
 - konsole (?)
 - Kate (?)
