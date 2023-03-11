@@ -1,7 +1,7 @@
 # RadiantRaccoonNetwork
 A collection of Open-Source Tools used by PrismaticJellyfish, OtterLake, OtterPad, and others...
 ***
-(possibly = (?)) open source software 
+(possibly = (?) ) open source software 
 - inkscape
 - blender
 - godot
@@ -27,7 +27,9 @@ A collection of Open-Source Tools used by PrismaticJellyfish, OtterLake, OtterPa
 *** 
 check the gui code for each.
 ***
-
+other useful tools : 
+- css layout generator https://layout.bradwoods.io/
+- html, css, javascript generator tool (prismatic jellyfish (?) )
 
 
 ***
